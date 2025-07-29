@@ -10,7 +10,7 @@ if (game.PlaceId == 126509999114328) then ----- 99 Days in The Forest
     loadstring(game:HttpGet("https://raw.githubusercontent.com/f6hub-Dev/99-Nights-in-the-forest/refs/heads/main/StrikeX.lua"))()
 end
 
-if (game.PlaceId == 109983668079237 then ----- Steal a Brainrot
+if (game.PlaceId == 109983668079237) then ----- Steal a Brainrot
    loadstring(game:HttpGet("https://raw.githubusercontent.com/f6hub-Dev/Steal-a-brainrot/refs/heads/main/StrikeX.lua"))()
 end
 ---- More SOON
