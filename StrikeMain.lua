@@ -13,4 +13,7 @@ end
 if (game.PlaceId == 109983668079237) then ----- Steal a Brainrot
    loadstring(game:HttpGet("https://raw.githubusercontent.com/f6hub-Dev/Steal-a-brainrot/refs/heads/main/StrikeX.lua"))()
 end
----- More SOON
+
+if (game.PlaceId == 142823291) then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/f6hub-Dev/Strikex/refs/heads/main/Mm2.lua"))() ---- Mm2
+end
