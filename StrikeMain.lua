@@ -15,5 +15,5 @@ if (game.PlaceId == 109983668079237) then ----- Steal a Brainrot
 end
 
 if (game.PlaceId == 142823291) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/f6hub-Dev/Strikex/refs/heads/main/Mm2.lua"))() ---- Mm2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/strike-x-vid/Strikexmm2/refs/heads/main/Mm2.lua"))() ---- Mm2
 end
