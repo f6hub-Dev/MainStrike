@@ -13,3 +13,5 @@ end
 if (game.PlaceId == 142823291) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/strike-x-vid/Strikexmm2/refs/heads/main/Mm2.lua"))() ---- Mm2
 end
+----- Blox Fruits
+loadstring(game:HttpGet("https://raw.githubusercontent.com/f6hub-Dev/Blox-Fruits/refs/heads/main/BloxStrikeX.txt"))() 
